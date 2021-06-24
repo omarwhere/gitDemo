@@ -21,3 +21,12 @@ a {
     color: white;
     letter-spacing: 2px;
 }
+
+.footer {
+    background-color:darkslategrey;
+    padding: 20px;
+}
+
+.footer-widget-1 {
+    color: white;
+}
