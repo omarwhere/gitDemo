@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    width: 80%;
+    margin: auto;
+}
+
+.logo-text {
+    background-color: darkslategrey;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    letter-spacing: 2px;
+}
